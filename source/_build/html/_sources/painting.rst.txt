@@ -12,22 +12,22 @@
 1. 梁崽（laogong）相关
 ------------------------
 
-1.1 painting 1
--------------------
+1.1. painting 1
+^^^^^^^^^^^^^^^^^^^^^^^
    
 .. figure::
     _static\\painting\\zdl_1.jpg
     :alt: 不见了
 
 1.2 painting 2
-------------------- 
+^^^^^^^^^^^^^^^^^^^^^^^ 
 
 .. figure::
     _static\\painting\\zdl_2.jpg
     :alt: 不见了
 
 1.3 painting 3
------------------------
+^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure::
     _static\\painting\\zdl_xg_1.jpg
