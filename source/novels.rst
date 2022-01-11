@@ -15,8 +15,8 @@ Emm，就随便写的，算一个开始吧，只是感觉好玩而已，那就�
     :alt: FirstBook_Fragment_1.jpg
 
 
-2.1.2 *fragment 2*
-^^^^^^^^^^^^^^^^^^^^^^
+2.1.2 .. _*fragment 2*
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure::
     _static\\novels\\FirstBook_Fragment_1.jpg
