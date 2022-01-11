@@ -22,10 +22,8 @@ Emm，就随便写的，算一个开始吧，只是感觉好玩而已，那就�
 
 是在做梦没错了，hhh^_^ ^_^
 
-.. figure::
-    _static\\novels\\FirstBook_Fragment_2.jpg
-    :align: left
-    :alt: FirstBook_Fragment_2.jpg 
+.. image:: _static\\novels\\FirstBook_Fragment_2.jpg
+    :alt: FirstBook_Fragment_2.jpg
 
 
 
