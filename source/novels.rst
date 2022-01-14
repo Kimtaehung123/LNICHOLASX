@@ -62,7 +62,7 @@ Emm，就随便写的，算一个开始吧，只是感觉好玩而已，那就�
 ⭐女主：夏（我寄几）🌝🌝
 
 .. figure::
-    _static\\novels\\第一杯咖啡好喝吗.jpg
+    _static\\novels\\第一杯咖啡好喝吗.jpeg
     :alt: 第一杯咖啡好喝吗.jpg
     :align: left
 
