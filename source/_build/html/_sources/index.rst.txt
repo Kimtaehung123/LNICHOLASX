@@ -13,6 +13,7 @@ Welcome to LNICHOLASX's documentation!
    painting
    novels
    photos
+   audio_files
 
 
 
