@@ -11,7 +11,6 @@ Welcome to LNICHOLASX's documentation!
    :caption: Contents:
 
    painting
-   novels
    photos
    audio_files
 
